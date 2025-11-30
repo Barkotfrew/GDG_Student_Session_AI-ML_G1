@@ -1,4 +1,4 @@
-##GDG AI/ML Session Tasks 
+## GDG AI/ML Session Tasks 
 
 ## week 1: NumPy Practice
    This is a small Python exercise where I worked with a list of numbers using NumPy.
